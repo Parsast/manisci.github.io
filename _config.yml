@@ -7,12 +7,11 @@
      
 # Site Settings
 locale                   : "en-US"
-title                    : "Mani Sotoodeh"
+title                    : "Parsa Sotoodeh"
 title_separator          : "-"  
-name                     : &name "Mani Sotoodeh"
-description              : &description "Machine Learning in Healthcare Researcher, Ph.D. @EmoryUniversity
-💛💜🏳️‍⚧️🏳️‍🌈 (he/him)"
-url                      : https://manisci.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Parsa Sotoodeh"
+description              : &description "Data Scientist, Computer Vision, Digital Agriculture Specialist, M.S in Comptuer Science"
+url                      : https://parsast.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "manisci.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -79,34 +78,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mani Sotoodeh"
+  name             : "Parsa Sotoodeh"
   avatar           : "balag.jpg"
-  bio              : "Postdoctoral Fellow @UniversityOfMontreal, Machine Learning in Healthcare Researcher, Ph.D. @EmoryUniversity
-💛💜🏳️‍⚧️🏳️‍🌈 (he/him)"
-  location         : "Montreal, QC, CA"
+  bio              : "Data Scientist, Computer Vision, Digital Agriculture Specialist, M.S in Comptuer Science"
+  location         : "Winnipeg, MB, CA"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=ThdY5QcAAAAJ&hl=en" 
-  email            : "mani.sotoodeh@gmail.com"
+  googlescholar    : 
+  email            : "parsa.sotoodeh.1993@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "manisetayesh"
+  facebook         : 
   foursquare       :
-  github           : "manisci"
+  github           : "parsast"
   google_plus      :
   keybase          :
-  instagram        : "mani.sotoodeh"
+  instagram        : 
   lastfm           :
-  linkedin         : "mani-sotoodeh-bb079082"
-  orcid            : "https://orcid.org/0000-0003-4786-1871"
+  linkedin         : "parsa-s-ba198b77"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SotoodehMani"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
