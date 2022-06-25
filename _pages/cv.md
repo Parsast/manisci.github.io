@@ -12,14 +12,10 @@ redirect_from:
 Education
 ======
 * MSc in Computer Science     University of Winnipeg, Winnipeg, Canada                July. 2022(Expected)
-Thesis Title: Field plants labelling with indoor data augmentation     Advisor: Dr. C. Henry
+Thesis Title: Robust field plant identification through indoor imagery using novel image augmentation and adversarial networks algorithms    Advisor: Dr. C. Henry, Dr C.Bidinosti
 
 * BSc in Engineering Science, Mathematical Engineering  University of Tehran     Awarded Winter 2018                                                                                                                                        
 Thesis Title: Deep learning architectures and their utilities,  Advisor:  Dr. Mahmoud Shabankhah
-    
-Research Objective
-======
-Conducting healthcare informatics research deployable in the real world to ensure maximal benefit for a broader population in society especially for reducing social and healthcare disparities across minority groups. Deepening my grasp of theoretical machine learning while exploring practical considerations and nuances of turning research into public policy.
 
 Research Interests
 ======
