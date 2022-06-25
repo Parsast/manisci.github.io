@@ -11,14 +11,11 @@ redirect_from:
 
 Education
 ======
-* PhD in Computer Science, Emory University, Atlanta, GA, U.S, August 2016 – August 2021
-Ph.D. Dissertation: Crowdsourcing and Semi-Supervised Learning for Detection and Prediction of Hospital Acquired Pressure Ulcer 
-Advisor: Dr. Joyce Ho, Co-Advisor: Dr. Li Xiong
+* MSc in Computer Science     University of Winnipeg, Winnipeg, Canada                July. 2022(Expected)
+Thesis Title: Field plants labelling with indoor data augmentation     Advisor: Dr. C. Henry
 
-* Bachelor of Science in Engineering Science, Telecommunication Engineering 
-
-    University of Tehran, Tehran, Iran August 2011-July 2015
-    Thesis Title: Computational Models of human vision, Advisor: Dr Reshad Hosseini
+* BSc in Engineering Science, Mathematical Engineering  University of Tehran     Awarded Winter 2018                                                                                                                                        
+Thesis Title: Deep learning architectures and their utilities,  Advisor:  Dr. Mahmoud Shabankhah
     
 Research Objective
 ======
@@ -26,63 +23,41 @@ Conducting healthcare informatics research deployable in the real world to ensur
 
 Research Interests
 ======
-Probabilistic Graphical Models, Noisy Labelling, Crowdsourcing, Weakly Supervised Learning, Healthcare Informatics- Nursing quality metrics, Outcome prediction in clinical settings, Tensor Factorization, Disease Progression Prediction, Machine Learning for real-world data, Data Mining for social good, Bias and fairness in machine learning.
+Computer Vision, Object Detection, Data Mining, Natural Language Processing- Experienced Data Scientist with a demonstrated history of working on projects encompassing Computer Vision, Image Processing and Digital Agriculture. Skilled in Machine Learning Algorithms, Data Mining, Data Analysis and Supervised and Unsupervised learning.
 
 Work experience
 ======
 
-* Postdoctoral Fellow at School of Public Health, University of Montreal, Montreal, QC September 2021 – Present
-  
-  Modeling potential threats and incidence rate of infectious diseases using multiple sources of data.
-    
-    
-* Research Assistant at Practical Data Mining & Exploration Lab Emory University, Atlanta, GA May 2018 – August 2021
+*	Mitacs Accelerate Intern    GPU Educational Lab, University of Winnipeg      	        Sep. 2019–present
+Member of the digital agriculture research project, Improving detection metrics of field crops with data Augmentation Using Generative Adversarial Networks, object detection and computer vision algorithms 
 
-    Tensor factorization for phenotyping in medical datasets to develop high quality features for various predication tasks
-    Predicting length of stay of ICU patients using Graphical Models and raw Electronic Health Records data, Nursing quality metrics modeling.
-    
-* Fellow, Data Science for Social Good  Foundation, Imperial College Business School, London June 2019-August 2019
+*	Lab assistant, Applied Statistics for Data Science  PACE, University of Winnipeg    Nov2021-Dec2021
+*	Lab assistant, Data Acquisition for Data Science  PACE, University of Winnipeg      Jan2022-Feb2021
+*	Exam Proctor (Math, Physics, Accessibility Services)     University of Winnipeg         Sep2021-present                     
 
-    Helping Emergency Medical Services to identify High Utilizers for Proactive Care Services using call log data by developing a complete pipeline for applying classification on EHR data with multiple user-defined parameters.
-    
-* Teaching Assistant for CS170 Emory University, Atlanta, GA September 2016– May 2018
+*	Teaching Assistant for parallel programming University of Winnipeg	                       Sep 2021-present       
 
-    Largest intro to CS course at Emory, Introduction to programming using Java (2 times)
+*	I.T consulting and Translator   ADA Hamrang Andisheh Farda                       	      Aug2016– Jun 2018
+Translation and correspondence with foreign clients
+
+*	Undergraduate Intern at NLP lab of University of Tehran   	Tehran, Iran      	                Summer 2014    
+Implementing and designing methods in python to extract and store information from Wikipedia’s infoboxes to be later used for an experimental search engine                                                
   
 Programming and Technical Skills
 ======
-* Python, MATLAB, C, C++, Java, SQL, Machine Learning, Data Mining, Graphical models, Tensor Factorization, Time series Analysis, Disease Progression Prediction.
+* Python, Matlab, Java, C/C++, Keras, Tensorflow, Pytorch, Numpy, AWS, Docker, CSS, Cuda, SQL, JSON.
 
 Projects
 ======
-* Helping Emergency Medical Services to identify High Utilizers for Proactive Care Services using call log data Summer 2019
-*	Devised SVM regression and neural networks model for prediction of survival time of brain cancer patients, with high accuracy Fall 2016     
-*	Implemented a question answering unit, capable of answering factual queries related to cities          	                       using Wikipedia data  Fall 2016 
-*	Implemented a user simulation method used in conjunction with dialogue manager systems to be tested  Spring 2017           
-*	Implementing an almost complete SQL parser, with functionalities spanning a standard database system  Spring 2017
-*	Tensor Factorization using constrained clustering to improve Chronic kidney disease classification Summer 2017
-*	Object tracking using Particle filtering and Kalman Filter for multiple cell movement prediction in 2D and 3D Fall 2017
-*	Mini-hash based similarity search to cluster similar Parkinson patients using audio featurea Fall 2017
+* Optimization of security measures in Cloud service providers allocation 		      Spring 2020
+through a Tabu search algorithm within the multi-goal programming paradigm
+* Learning in the presence of dataset unbalancedness in computer vision 		      Spring 2020 for digital agriculture plant classification task using VGG-19 and ResNet-50 as base models 
+
+* Optimized and time-efficient quick select algorithm through parallelization using 	           Fall 2019
+CUDA    
+* Designed an accurate & robust image segmentation tool in Java using maximal 	           Fall 2019
+graph flow algorithms (Ford-Fulkerson and Edmond-Karp algorithms)                           
 
 Selected Graduate Courses
 ======
-*	Machine Learning, Data mining, Artificial Intelligence, Advanced Algorithms, Natural Language Processing, Digital Image Processing, Distributed Processing, High Performance Computing, Database Systems, Systems Programming, Introduction to Biomedical Informatics
-  
-Awards and Honors
-======
-* Finalist for Best Student Paper competition at AMIA 2019 Informatics Summit March 2019
-*	Ranked 3rd in my undergraduate class 2016   July 2015
-*	Won 3rd place in English Presentation competitions in Tehran high school students July 2012
-*	Won first place in humor writing competition amongst 500 participants July 2011	                                 
-
-
-Reviewing Experiences
-======
-
-AMIA Annual Symposium and AMIA Informatics Summit						                                              2019-2021            
-                                  
-Leadership and Community Engagement
-======
-* Volounteering for STEM Education Outreach  Spring 2018-Now
-* Author for Student magazine Satire columnist     Mashhad, Iran August 2000 –May 2007	 		
-* Active participation in humor competition Weekly column on a blog Tehran, Iran	April 2013 – November 2014  
+*	Parallel Programming, Advanced Machine Learning, Advanced algorithms, Data Structures, Advanced Programming, Logic for CS, Artificial Intelligence, Internet Algorithm, Operation Research, Linear Algebra
