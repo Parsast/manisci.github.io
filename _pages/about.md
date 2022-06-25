@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Postdoctoral Fellow at University of Montreal, School of Public Health working with Drs. Helene Carabin, Erin Rees and Simon De Montigny. I have a Ph.D. and M.S in Computer Science from Emory University and a B.S in Engineering Science from University of Tehran. I worked in *Practical Data Mining & Exploration Lab* and *Assured Information Management and Sharing Lab*  at Emory University, Department of Computer Science, under the supervison of *Dr. Joyce Ho* and *Dr. Li Xiong* . My research interests include *Infectious disease modelling*, *Machine Learning*, *Healthcare Informatics*, *Probabilistic Graphical Models*, *Noisy Labelling*, *Crowdsourcing* and many other stuff health related! Outside academia, I enjoy running, music, boardgames, and learning about Psychoanalysis and Neuroscience. 
+I'm a Master student at University of Winnipeg, department of computer science, working with Drs. Christopher Henry and Christopher Bidinosti. I have a B.S in Engineering Science from University of Tehran. I work in *TerraByte Lab* at University of Winnipeg, Department of Computer Science . My research interests include *Computer Vision*, *Machine Learning*, *Deep Learning*, *Digital Agriculture*, *Generative adversarial Networks*. Outside academia, I enjoy music, hiking and learning about political theories. 
 
-Research Objective
-
-Conducting healthcare informatics research deployable in the real world to ensure maximal benefit for a broader population in society especially for reducing social and healthcare disparities across minority groups. Deepening my grasp of theoretical machine learning while exploring practical considerations and nuances of turning research into public policy.
-
+I am an experienced Data Scientist with a demonstrated history of working on projects encompassing Computer Vision, Image Processing and Digital Agriculture. Skilled in Machine Learning Algorithms, Data Mining, Data Analysis and Supervised and Unsupervised learning paradigms.
 
